@@ -52,7 +52,7 @@ button:focus {
   outline: none;
 }
 
-/* Montior and Larger */
+/* Monitor and Larger */
 @media screen and (min-width: 1800px) {
   canvas {
     margin-top: 100px;
